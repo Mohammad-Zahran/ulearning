@@ -1,3 +1,6 @@
 [submodule "ulearning-backend"]
 	path = ulearning-backend
 	url = https://github.com/Mohammad-Zahran/ulearning-backend.git
+[submodule "ulearning_frontend"]
+	path = ulearning_frontend
+	url = https://github.com/Mohammad-Zahran/ulearning-frontend.git
